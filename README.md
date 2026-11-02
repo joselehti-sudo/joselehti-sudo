@@ -6,20 +6,28 @@ My background is in B2B and B2C sales and customer service. I am interested in t
 
 ## What I am building
 
-I am developing software for independent car repair shops. My work focuses on understanding workshop needs, choosing what to build, keeping the scope useful and reviewing whether the result makes sense for the person using it.
+I am developing software for independent car repair shops and a local workflow for human-reviewed offers.
 
-AI coding agents do much of the implementation and technical testing. I direct the work and make product decisions, using customer feedback and the evidence available.
+My work focuses on workshop needs, product decisions, scope and whether the result makes sense for the person using it. AI coding agents do much of the implementation and technical testing. The case studies explain who did what and what the evidence actually supports.
 
 ## Selected work
 
-### [Checking the odometer before issuing an invoice](https://github.com/joselehti-sudo/workshop-invoice-case-study)
+### [Sending the right extra work without losing its history](https://github.com/joselehti-sudo/customer-workflow-case-studies/blob/main/cases/extra-work-approval.md)
 
-A small change to the invoice review step: show the current visit's odometer reading before the invoice is issued.
+An older empty draft blocked a newer proposal. A case about recovering from mistakes, preserving customer approval and fixing a defect found during review. Includes synthetic before/after screenshots.
 
-The case study explains the problem, my role, the decisions that mattered and the recorded checks. It includes before/after screenshots with synthetic data and states what has not yet been measured.
+### [Keeping a human in control of an AI-written offer](https://github.com/joselehti-sudo/customer-workflow-case-studies/blob/main/cases/human-reviewed-offers.md)
+
+Complete English review, scoped corrections and a Finnish customer version tied to the approved revision. A local trial with a fresh 45-test offline check and explicit limits.
+
+### [Checking the odometer before issuing an invoice](https://github.com/joselehti-sudo/customer-workflow-case-studies/blob/main/cases/invoice-review.md)
+
+A smaller example of putting the right information at the point where staff need to check it.
+
+[All cases, evidence and validation plan](https://github.com/joselehti-sudo/customer-workflow-case-studies)
 
 ## What interests me
 
-Customer workflows, software implementation, product decisions and practical uses of AI. I like understanding why something is difficult to use and working through how to make it easier.
+Customer success, software implementation, product work and practical uses of AI. I like understanding why something is difficult to use and working through how to make it easier.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jose-lehtim%C3%A4ki-a22a36171/)
